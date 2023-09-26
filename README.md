@@ -5,7 +5,7 @@
 <!-- `packagename` is extracted from the DESCRIPTION file -->
 <!-- `gh_repo` is extracted via a special environment variable in GitHub Actions -->
 
-# {{ packagename }} <img src="man/figures/logo.svg" align="right" width="120" />
+# Harmonize - {{ packagename }} <img src="man/figures/logo.svg" align="right" width="120" />
 
 <!-- badges: start -->
 
@@ -17,7 +17,7 @@ coverage](https://codecov.io/gh/%7B%7B%20gh_repo%20%7D%7D/branch/main/graph/badg
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
 <!-- badges: end -->
 
-{{ packagename }} provides functions to ….
+This Harmonize {{ packagename }} provides functions to ….
 
 <!-- This sentence is optional and can be removed -->
 
