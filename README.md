@@ -17,13 +17,12 @@ coverage](https://codecov.io/gh/%7B%7B%20gh_repo%20%7D%7D/branch/main/graph/badg
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
 <!-- badges: end -->
 
-This Harmonize {{ packagename }} provides functions to ….
+This Harmonize {{ packagename }} provides functions to …
 
 <!-- This sentence is optional and can be removed -->
 
-{{ packagename }} is developed at the [CENTER\|similar](url) at the
-[UNIVERSITY\|similar](url) as part of the [Epiverse-TRACE
-program](https://data.org/initiatives/epiverse/).
+{{ packagename }} is developed at the [GROUP\|similar](url) at the
+[UNIVERSITY\|similar](url) as part of the [Harmonize project]([https://data.org/initiatives/epiverse/](https://www.iai.int/es/news/detail/HARMONIZE-a-new-IAI-partnership)).
 
 ## Installation
 
